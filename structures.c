@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 //just an example of a basic struct
-struct body{
+struct body {
 	int posX;
 	int posY; 
 	int velX;
