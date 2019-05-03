@@ -3,8 +3,8 @@
 
 int main() {
 	
-	//pointrs can be initialized without a variable by using malloc, 
-	//which allocates memory for the pointer	
+	/*pointers can be initialized without a variable by using malloc, 
+	which allocates memory for the pointer on the heap*/	
 	float *pi = malloc( sizeof(*pi) );
 
 	//exit on keypress
