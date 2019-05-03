@@ -6,10 +6,10 @@ the standard i/o header file */
 int main() {
     printf("Hello, World!\n");
     
-    /*sends 'pause' to the system, in windows, pause 
-    freezes console activity until a key is pressed*/
+    /*executes system command 'pause' (in windows cli, pause 
+    freezes console activity until a key is pressed)*/
     system("pause");
     
-    //return 0 ends the program with an exit code '0' or normal
+    //return 0 ends the program with an exit code '0' meaning normal execution
     return 0;
 }
