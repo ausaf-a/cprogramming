@@ -1,3 +1,3 @@
 # cprogramming
 
-some c source code and header files that demonstrate basic c concepts 
+Demonstrations of a few fundamental C concepts
